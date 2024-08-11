@@ -1,0 +1,10 @@
+import ThemeSwitch from "@/components/ThemeSwitch";
+
+export default function Home(): JSX.Element {
+  return (
+    <>
+      <h1>Home</h1>
+      <ThemeSwitch />
+    </>
+  );
+}
