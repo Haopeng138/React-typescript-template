@@ -1,9 +1,10 @@
-import About from './pages/test-router/about';
+
+import AppRouter from './router';
 
 function App() {
   return (
     <>
-      <About></About>
+      <AppRouter />
     </>
   );
 }
