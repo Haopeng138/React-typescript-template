@@ -1,6 +1,6 @@
 
 import AppRouter from './router';
-
+import './styles/index.css';
 function App() {
   return (
     <>
@@ -8,5 +8,4 @@ function App() {
     </>
   );
 }
-
 export default App;
