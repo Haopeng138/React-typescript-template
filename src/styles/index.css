@@ -4,8 +4,10 @@
 
 :root {
   --color-primary: #000000;
-  --color-secondary: #fffff1;
+  --color-secondary: #fffff9;
   --color-tertiary: #0000ff;
+
+  --font-family: 'Roboto', sans-serif;
 }
 
 
